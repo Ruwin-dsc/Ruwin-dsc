@@ -1,5 +1,3 @@
-Bien sûr, voici une version du README sans la section des projets en vedette :
-
 ---
 
 # Bienvenue sur mon GitHub ! 👋
