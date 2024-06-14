@@ -2,7 +2,7 @@
 
 # Bienvenue sur mon GitHub ! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ruwin-dsc&color=blue) ![GitHub Followers](https://img.shields.io/github/followers/Ruwin-dsc?style=social)
+[![](https://visitcount.itsvg.in/api?id=Ruwin-dsc&label=Profile%20Views&color=11&icon=2&pretty=true)](https://visitcount.itsvg.in) ![GitHub Followers](https://img.shields.io/github/followers/Ruwin-dsc?style=social)
 
 ## 🚀 Présentation
 
