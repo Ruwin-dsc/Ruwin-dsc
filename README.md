@@ -1,6 +1,6 @@
 ---
 
-![Ruwin-BANNER](https://media.discordapp.net/attachments/1247919991416946840/1256496187624652880/f4b3c5ad0425488b6c0a1cb695e29dc1.jpg?ex=6680fac3&is=667fa943&hm=9503451b34976dcbf55fd9a1f9e837978c39a9baaedb2d8fc51ebe1c36d79676&=&format=webp&width=3360&height=1186)
+![Ruwin-BANNER](https://raw.githubusercontent.com/Ruwin-dsc/Ruwin-dsc/main/banner.jpg)
 
 ## 📊 ▸ Stats
 
